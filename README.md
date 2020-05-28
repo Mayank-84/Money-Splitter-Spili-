@@ -3,10 +3,14 @@ More often, we plan trips with our friends and family members. Its fun, right? B
 
 Spili is a C++ command line interface based application which aims to solve this problem.
 
-<u><b>Problem Statement:</b></u>
+<b>Problem Statement:</b>
+
 Input :
+
 <li>Name of all persons in the trip.</li>
-List of expenses for each event in the trip, followed by name of the person who paid it.
+<li>List of expenses for each event in the trip, followed by name of the person who paid it.</li>
+
 Output :
+
 How much money one needs to pay and to whom?
 Example — person 1 has to pay Rs. 1000 to person 2 and so-on.
