@@ -9,6 +9,7 @@ Input :
 
 <li>Name of all persons in the trip.</li>
 <li>List of expenses for each event in the trip, followed by name of the person who paid it.</li>
+<nl>
 
 Output :
 
